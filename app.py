@@ -1,4 +1,4 @@
-from perceptron import perceptron
+from Perceptron import perceptron
 
 def run():
   print(perceptron.XOR(0,1))
